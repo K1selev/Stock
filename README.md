@@ -19,7 +19,7 @@
 По первым трем - редиректить в сафари и открывать ссылку (любую). По последней - вызывать стандартный алерт оценки приложения.
 
 
-[<img src="screen/1.png" width="302"/>](screen/1.png)
-[<img src="screen/2.png" width="302"/>](screen/2.png)
-[<img src="screen/3.png" width="302"/>](screen/3.png)
+[<img src="screen/1.png" width="250"/>](screen/1.png)
+[<img src="screen/2.png" width="250"/>](screen/2.png)
+[<img src="screen/3.png" width="250"/>](screen/3.png)
 [<img src="screen/4.png"/>](screen/4.png)
